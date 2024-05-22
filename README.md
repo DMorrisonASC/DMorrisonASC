@@ -11,7 +11,7 @@
 
 - 👯 I’m collaborate on with some friends [Sound Smith (private repo)](https://github.com/users/bgoldstone/projects/2/views/7)
 
-- 👨‍💻 All of my projects are available at [Daeshaun's Portfolio]([https://dmorrisonasc.github.io/portfolio/](https://daeshauncodes.wixsite.com/daeshaun-s-portfolio))
+- 👨‍💻 All of my projects are available at [Daeshaun's Portfolio](https://daeshauncodes.wixsite.com/daeshaun-s-portfolio)
 
 - 📫 How to reach me **daeshaunkmorrison@gmail.com**
 
